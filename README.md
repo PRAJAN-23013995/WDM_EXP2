@@ -1,5 +1,5 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+### DATE: 14.08.25
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
@@ -41,8 +41,6 @@ G40,high,yes,excellent,yes
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
-### OUTPUT:
-
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,4 +52,8 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+<img width="1253" height="955" alt="image" src="https://github.com/user-attachments/assets/e317b30f-5823-48a3-a30f-755112f2890a" />
+
+
 ### RESULT: 
+Hence the program has been executed successfully .
